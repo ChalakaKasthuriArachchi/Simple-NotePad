@@ -1,0 +1,10 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.frm_NotePad.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Documents\SC10284\Others\NotePad\NotePad\obj\Debug\NotePad.frm_Find.resources
